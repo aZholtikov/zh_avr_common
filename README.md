@@ -1,3 +1,1 @@
-# zh_avr_common
-
-AVR system definitions.
+# AVR system definitions
